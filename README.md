@@ -12,4 +12,4 @@ There are also two evaluation models:
  - Perplexity
  - BLEU Score
 
-BLEU scores are generated wrt subsets of the original PSG dataset, and are compared to both of our generative conversational models' output. Details of the implementation can be found in the bleu_scores folder.
+Perplexity and BLEU scores are generated wrt subsets of the original PSG dataset, and are compared to both of our generative conversational models' output. Details of the BLEU Score implementation can be found in the bleu_scores folder and the Perplexity metric implementation in the perplexity_metric folder.
